@@ -1,0 +1,17 @@
+@font-face{
+    font-family: 'Jakarta-M';
+    src:  url(../fonts/PlusJakartaSans-Medium.ttf) format('truetype');
+}
+
+@font-face{
+    font-family: 'Jakarta-B';
+    src:  url(../fonts/PlusJakartaSans-Bold.ttf) format('truetype');
+}
+@font-face{
+    font-family: 'Jakarta-R';
+    src:  url(../fonts/PlusJakartaSans-Regular.ttf) format('truetype');
+}
+@font-face{
+    font-family: 'Jakarta-S';
+    src:  url(../fonts/PlusJakartaSans-SemiBold.ttf) format('truetype');
+}
